@@ -93,7 +93,7 @@ Update the following sections in `index.html`:
 
 1. **Hero Section** (lines 44-52):
    ```html
-   <h1 class="hero-title">Hi, I'm <span class="highlight">Your Name</span></h1>
+   <h1 class="hero-title">Hi, I'm <span class="highlight">Lalit Kumar</span></h1>
    <p class="hero-subtitle">Your Professional Title</p>
    ```
 
@@ -127,7 +127,7 @@ Update projects in `index.html` (lines 150-210):
 
 Update social media links in `index.html` (lines 195-202):
 ```html
-<a href="https://github.com/yourusername" class="social-link">
+<a href="https://github.com/lalit54667" class="social-link">
     <i class="fab fa-github"></i>
 </a>
 ```
@@ -170,30 +170,6 @@ The website is fully responsive and includes:
 - **Touch-friendly** buttons and links
 - **Optimized images** and media queries
 
-## 🚀 Deployment
-
-### GitHub Pages
-
-1. Push your code to a GitHub repository
-2. Go to repository Settings → Pages
-3. Select source as "Deploy from a branch"
-4. Choose main branch and save
-5. Your site will be available at `https://username.github.io/repository-name`
-
-### Netlify
-
-1. Push your code to GitHub
-2. Sign up for Netlify and connect your GitHub account
-3. Select your repository
-4. Deploy settings will be auto-detected
-5. Your site will be live instantly
-
-### Vercel
-
-1. Push your code to GitHub
-2. Sign up for Vercel and import your repository
-3. Vercel will automatically detect and deploy your site
-4. Your site will be live with a `.vercel.app` domain
 
 ## 🐛 Troubleshooting
 
