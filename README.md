@@ -199,7 +199,3 @@ Feel free to submit issues and enhancement requests!
 ## 📞 Support
 
 If you need help customizing or deploying your portfolio, feel free to reach out.
-
----
-
-**Happy Coding! 🎉**
